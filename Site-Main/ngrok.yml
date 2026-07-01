@@ -1,0 +1,29 @@
+version: "2"
+
+authtoken: JOUW_TOKEN
+
+tunnels:
+  f3:
+    addr: 8083
+    proto: http
+    domain: vartechregulationsf3.ngrok.app
+
+  sportingf3:
+    addr: 8084
+    proto: http
+    domain: sportingregulationsf3var.ngrok.app
+
+  calendartools:
+    addr: 8086
+    proto: http
+    domain: varagentcalendartool.ngrok.app
+
+  f2:
+    addr: 8081
+    proto: http
+    domain: sportingregulationsvarf2.ngrok.app
+
+  sportingf2:
+    addr: 8080
+    proto: http
+    domain: technicalregulationsf2var.ngrok.app
