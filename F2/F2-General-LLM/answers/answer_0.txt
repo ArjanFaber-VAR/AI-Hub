@@ -1,0 +1,71 @@
+**Short answer:**  
+If a driver fails to take the mandatory pit‑lane passage that the Race Director has ordered during a Safety‑Car (SC) period, the stewards will treat it as a breach of a direct instruction. The usual penalty is a **drive‑through** (or its time‑equivalent) and, depending on the circumstances, it can be upgraded to a **10‑second stop‑and‑go** or a **time‑penalty** (5 s, 10 s, 20 s, etc.).  
+
+Below is a quick reference to why that is the case and what you can expect on the score‑board.
+
+---
+
+## 1.  Regulation basis (FIA‑F1, but the principle is the same in most series)
+
+| Article | Content (summary) |
+|---------|-------------------|
+| **Sporting Reg. Article 24.3** (FIA Formula 1) | “Any driver who fails to obey a directive from the Race Director shall be penalised in accordance with Article 42.” |
+| **Article 42.2‑3** (Penalties) | Stewards may impose a **drive‑through** or a **time‑penalty**; for a serious breach they may apply a **stop‑and‑go**. |
+| **Article 38.1‑3 (Safety Car)** | When the Race Director orders a **“mandatory pit‑lane passage”** under SC, all cars must follow it unless a technical problem prevents them. Missing the entry is a breach of the directive. |
+
+> **Bottom line:** A missed pit‑lane entry during a mandatory SC‑pit‑lane passage is treated exactly like any other direct instruction from the Race Director that is ignored. The penalty ladder starts with a drive‑through and can be escalated.
+
+---
+
+## 2.  Typical penalty ladder
+
+| Severity | Reasoning | Typical penalty |
+|----------|-----------|-----------------|
+| **Minor / first‑time breach, no advantage gained** | Driver simply mis‑judged the entry; no time advantage was taken. | **Drive‑through** (or the “time‑equivalent” – usually ~20 s added to race time). |
+| **Medium – advantage or repeated breach** | Driver gained a lap‑time advantage, or it is a second offense in the same race. | **10‑second stop‑and‑go** (or a **20‑second time‑penalty**). |
+| **Severe – dangerous or intentional ignoring** | Driver’s action endangers other cars, or the team deliberately ignores the instruction. | **30‑second time‑penalty** or **disqualification** (rare, but possible). |
+
+*In IndyCar, the counterpart is a **drive‑through** or **30‑second penalty** for failing to follow the “Pit‑lane entry mandatory” instruction.*
+
+---
+
+## 3.  How the penalty shows up in the timing screen
+
+| Penalty type | Notation on the timing screen |
+|--------------|------------------------------|
+| Drive‑through | **DT** (or “DT” next to the driver’s name). |
+| 10‑sec stop‑and‑go | **SG10** (or “SG” plus the seconds). |
+| Time‑penalty | **+5s**, **+10s**, **+20s**, etc., shown in the “Penalty” column. |
+| Disqualification | **DSQ** |
+
+The penalty is usually **served within 3 laps** after the stewards issue it, but if the car has already pitted and the stewards decide a time‑penalty is more appropriate, the time is simply added to the total race time.
+
+---
+
+## 4.  What to do on‑track if you realize you missed the entry
+
+1. **Notify your race engineer** immediately – they’ll tell you which penalty is likely to be applied.  
+2. **Try to re‑enter the pit lane** if you are still on the main straight and it is safe to do so (some series allow a “late” entry before the next lap).  
+3. **Maintain safe gaps** – the stewards will look at whether the miss gave you a time advantage.  
+4. **Prepare for a drive‑through** – keep enough fuel and tyre life to run the extra lap without additional pit‑stop complications.  
+
+---
+
+## 5. Quick cheat‑sheet for the pit‑lane‑entry‑miss scenario
+
+| Situation | Penalty you can expect |
+|-----------|------------------------|
+| First miss, no advantage, driver sees the error and re‑enters the pit lane on the next lap | **Drive‑through** (or ~20 s time‑penalty). |
+| Miss + advantage (e.g., gained a few seconds on the field) | **10‑second stop‑and‑go** (or 20 s time‑penalty). |
+| Repeated miss in the same race, or the miss caused a safety hazard | **30‑second time‑penalty** or **disqualification** (rare). |
+
+---
+
+### TL;DR for race‑weekend engineers
+
+- **Rule:** Ignoring a Race‑Director “mandatory pit‑lane passage” during SC = breach of directive.  
+- **First‑offense:** Expect a **drive‑through** (or ~20 s added).  
+- **If you gained time or it’s a repeat:** Penalty escalates to **10‑second stop‑and‑go** (or 20 s time‑penalty).  
+- **Severe/dangerous:** Could be a **30‑second penalty** or even **DSQ**.  
+
+Keep your drivers aware of the pit‑lane entry markers on the safety‑car line, and make sure the team radio prompts “Pit‑lane entry – mandatory, comply now!” to avoid that penalty. 🚀

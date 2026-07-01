@@ -1,0 +1,162 @@
+
+
+Based on my analysis, I have extracted the following structured data from comparing the 2025 and 2026 FIA Formula 3 Sporting Regulations:
+
+## Document Information
+
+| Attribute | 2025 | 2026 |
+|-----------|------|------|
+| Version | V2 | V1 |
+| Date | 26 February 2025 | 10 December 2025 |
+| Pages | 57 | 57 |
+
+---
+
+## Major Changes by Article/Section
+
+### 1. **Article 5.5** - Championship Calendar
+- No substantive change, only year references updated
+
+### 2. **Article 6.4** - Number of Entries
+- Remains identical: 10 Competitors with three cars each
+
+### 3. **Article 9.2** - Race Winner Nomination
+- 2025: "the winner according to such criteria as it thinks fit"
+- 2026: "nominate the winner according to such criteria as it thinks fit"
+
+### 4. **Article 12.1** - Competition Numbers
+- 2025: "2024 Formula 3 Team Championship order"
+- 2026: "2025 Formula 3 Team Championship order"
+
+### 5. **Article 13.2** - Installation Tyres
+- 2026 adds: "...undertaken within the first 30 minutes of the morning session..."
+
+### 6. **Article 22.4** - Penalty Punctuation
+- 2025: "(other than under Article 22.7(d)"
+- 2026: "(other than under Article 22.7(d))" ← Added closing parenthesis
+
+### 7. **Article 22.10** - Mandatory Track Exit (New Expanded Definition)
+- Complete rewrite in 2026 with detailed criteria for cars with structural damage or significant failures
+
+### 8. **Article 22.11** - Light Requirements
+- 2025: "central rear light...and at least one of the side lights"
+- 2026: "any of the lights"
+
+### 9. **Article 24.15** - Post-Race Tyre Changes
+- 2025: "is compulsory , if so directed"
+- 2026: "is compulsory if so directed" (removed extra space)
+
+### 10. **Article 26.2** - Number of Drivers Permitted
+- 2025: Five drivers per season
+- 2026: **Seven drivers per season**
+
+### 11. **Article 27.5** - RED FLAG Speed Requirement (NEW)
+- New requirement to stay above minimum time in marshalling sectors
+
+### 12. **Article 28.5** - Pit Lane Work Areas (Complete Rewrite)
+- Added detailed rules about inner lane being the only work area, restrictions on fast lane work
+
+### 13. **Article 28.6** - Double Stacking
+- Added: "Creating a gap to facilitate double stacking for pit stops must be done on the track and not in the pit entry or fast lane."
+
+### 14. **Article 28.14** - Start Set Up Procedure
+- Added: "It is permitted to activate the Start set up procedure at any time the car is in the pit lane."
+
+### 15. **Article 29** - Fuel Regulations
+- 2025: "Refuelling is only permitted in the Competitors' designated garages or designated area in the support paddock"
+- 2026: "Fuel may be added to or removed from a car only in the Competitors' designated garages or parc ferme'"
+
+### 16. **Article 29.1** - Weighing Procedure (New)
+- Added detailed reprimand and pit lane start procedures for drivers who fail to stop when signalled
+
+### 17. **Article 33.3** - Monaco Qualifying Groups
+- 2026 adds **Monza** alongside Monaco for two-group qualifying system
+- Monaco: 16 minutes per group
+- Monza: **10 minutes per group**
+
+### 18. **Articles 35.2, 36.2, 37.1** - Alternative Grid Regulations
+- 2025: Only Monaco
+- 2026: Monaco **and Monza**
+
+### 19. **Article 37.4** - Wheel Fitting
+- 2025: "wheels fitted"
+- 2026: "wheels **fully** fitted"
+
+### 20. **Article 37.5** - Pre-Grid Procedure
+- Added: "Start set-up procedure activated"
+
+### 21. **Article 37.6** - Grid Departure
+- Added: "all the cars must have the Start set-up procedure activated"
+
+### 22. **Article 37.9** - Standing Start
+- Added: "All the cars must have the Start set-up procedure activated by the time they come to a halt until it self-deactivates"
+
+### 23. **Article 37.11c** - Grid Departure
+- Added: "all the cars must have the Start set-up procedure activated"
+
+### 24. **Article 37.16c** - Safety Car Start (REMOVED)
+- Entire section deleted from 2026
+
+### 25. **Article 38** - VSC Procedure (Complete New Section)
+- New detailed regulations about pit stop equipment, permitted tools, autonomous systems prohibition
+
+### 26. **Article 39.3(d)** - Grid Penalties
+- 2025: "next Race"
+- 2026: "next **Feature** Race"
+
+### 27. **Article 40.12** - Safety Car Unlapping (REMOVED)
+- Entire section about overtaking restrictions during safety car deleted
+
+### 28. **Article 43.1** - Safety Car Warning Time
+- 2025: "ten minutes warning"
+- 2026: "**five minutes** warning"
+
+### 29. **Article 43.2** - Safety Car Signals
+- 2025: "ten minutes, five minutes, three minutes..."
+- 2026: "five minutes, three minutes..." ← Removed 10-minute signal
+
+### 30. **Article 43.3** - Wheel Fitting
+- 2026 adds "**fully**"
+
+### 31. **Article 42.4** - VSC Work Restrictions (NEW)
+- Added comprehensive list of permitted work items including new point xi) "Changing the length of the front and rear push rod suspension members"
+
+### 32. **Article 45** - Parc Fermé (NEW SECTION)
+- Six new articles (45.1-45.7) governing parc fermé procedures
+
+### 33. **Podium Ceremony** - Timing
+- 2026: "at least **15 minutes** before the end of the race"
+
+### 34. **Appendix 3 Part 1** - Driver Agreement
+- Year references updated
+- **Release clause (Point 8) REMOVED entirely**
+- **Rights in personality (Point 9) REMOVED entirely**
+
+### 35. **Underage Drivers Deed** - Multiple Changes
+- Year updated
+- Article 14: "any form" → "any **act**, form"
+
+### 36. **Part 3 - Pirelli Acknowledgement** - Complete Restructuring
+- New paragraph numbering system
+- Expanded recognition of risk section
+- New insurance requirements paragraph
+- Signature block changed to "Executed as a Deed" format
+
+### 37. **Part 2 - Underage Waiver** - REMOVED
+- Entire section deleted (pages 55-56 in 2025)
+
+---
+
+## Summary Statistics
+
+| Category | Count |
+|----------|-------|
+| Articles modified | 25+ |
+| New articles added | 12+ |
+| Articles removed | 3 |
+| Year references updated | Multiple |
+| Punctuations fixed | 2 |
+
+---
+
+Would you like me to export this data in a specific format (JSON, CSV, Excel-compatible), filter by specific articles, or perform any additional analysis?
