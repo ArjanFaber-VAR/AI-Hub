@@ -1,0 +1,32 @@
+The “minimum weight” rule is different for every racing category, so the exact number depends on which series you’re talking about. Here’s a quick cheat‑sheet for the most common top‑level series (as of the 2024‑2025 rulebooks; note that the numbers can change each year when technical regulations are updated).
+
+| Series | Minimum Weight (including driver, fluids & ballast) | When the rule changed (most recent) | Why it matters |
+|--------|-----------------------------------------------------|--------------------------------------|----------------|
+| **Formula 1** (2024‑2025) | **796 kg** | 2022‑2023 season (raised from 795 kg) | Sets a floor for chassis, power‑unit, safety‑cell, and driver combined. Teams add ballast to hit the limit while optimizing weight distribution. |
+| **Formula 1** (2026 “new engine” era) | **≈ 795 kg** (draft regulation) | Planned for 2026 season | The 2026 rulebook is still being finalised, but the target is roughly the same as today, with a slight reduction to accommodate the larger 1.6 L hybrid power unit. |
+| **IndyCar (2024)** | **1 650 lb** (≈ 748 kg) | 2020 rule update (no major change since) | Includes driver, fuel, fire‑suppression system, and a full fuel load. Teams must meet the floor after any set‑up changes. |
+| **Formula 2 (F2)** | **755 kg** (including driver & fuel) | 2022 chassis update (Dallara F2‑18) | Lower than F1 because the spec engine is less powerful and the chassis is lighter. |
+| **Formula 3 (F3)** | **650 kg** (including driver & fuel) | 2020‑2021 spec update | Acts as a stepping‑stone to F2; the weight gap helps drivers learn handling differences. |
+| **World Endurance Championship – LMP1 (now Hypercar)** | **1 030 kg** (minimum) for hybrid cars; **1 150 kg** for non‑hybrid | 2021‑2022 regulation change | Minimum weight is linked to the allowable energy recovery system (ERS) and power output. |
+| **WEC – LMP2** | **930 kg** (including driver) | 2021 regulation update | Fixed chassis (Oreca, Ligier, etc.) plus spec Gibson V8 engine; teams must meet the floor. |
+| **NASCAR Cup Series** | **3 400 lb** (≈ 1 542 kg) | 2022 rulebook (no major change) | Includes driver, fuel, and all safety equipment. Teams can add ballast but must stay above the floor. |
+
+### How to Find the Exact Figure for Your Car
+
+1. **Check the latest technical regulation booklet** for the series you’re competing in. Most series publish a PDF on their official website (e.g., FIA‑F1.com, IndyCar.com, FIA‑WEC.com, etc.).
+2. **Locate the “Minimum Weight” clause**—it’s usually in the “Vehicle Dimensions & Mass” or “Technical/Power‑Unit” chapter.
+3. **Confirm what is included**: most series require the weight to be measured **with the driver, full fuel tank, fire‑suppression system, and all mandatory fluids**. Anything else (ballast, extra cooling, aerodynamic devices) is added **after** the minimum‑weight measurement.
+4. **Take a “wet” measurement** (full fuel) unless the rulebook explicitly says “dry” (fuel‑free). Some series have separate “dry weight” for balance‑of‑performance calculations, but the competition minimum is always the “wet” figure.
+
+### Quick Tips for Engineers
+
+| Situation | What to do |
+|-----------|------------|
+| **You’re under the limit** | Add ballast in the prescribed locations (often front roll‑hoop, rear diffuser, or side‑pod). Keep a tight inventory so you can move it for optimal CG. |
+| **You’re right at the limit** | Double‑check the scale calibration, driver weight, and fuel level. Small discrepancies (±1 kg) can be enough to trigger a penalty. |
+| **Regulation change is upcoming** | Build a margin of flexibility into your design – e.g., modular rear‑subframe or adjustable bulkheads – so you can adapt to a ±5 kg shift without a full redesign. |
+| **Weight‑saving vs. durability** | Remember that a lighter chassis often means thinner skin, which can affect crash‑worthiness and component life. FIA/CSCC scrutineers will inspect for structural integrity, not just weight. |
+
+---
+
+**Bottom line:** If you let me know the exact championship or class you’re working on (F1, IndyCar, LMP2, etc.), I can give you the precise number from the latest rulebook and any nuances (e.g., “wet” vs. “dry” weight, driver‑minimum, ballast allowances). Just point me in the right direction! 🚀

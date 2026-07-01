@@ -1,0 +1,41 @@
+
+
+## Article 8.4 – Data Acquisition Changes
+
+**2025: Article 8.4.1**
+Any sensor or electronic device not listed under Article 8.4.1 shall be considered an additional component. Written approval by the F3 Promoter Technical Director and the FIA Technical Delegate must be obtained prior to the use of any additional sensor or electronic device in a Competition or Official Test. The submission for approval must include the specification, make, model, wiring connections, and installation details for each additional component. Each additional sensor must be connected exclusively to a single analogue or digital input of the Standard ECU via the connectors specified in the System User Manual. The additional On-board camera allowed for Official Test must be connected as specified in the System User Manual. It is strictly prohibited to connect any additional sensor or device to the car's CAN lines, except for the audio warning system as permitted under Article 8.14. The use of any additional data logger is forbidden, with the sole exception of video signal recording of the single on-board camera, which may be installed during Official Tests. All forms of sensor or signal multiplexing—including CAN converters— are prohibited. The only exception applies to biometric devices homologated in accordance with FIA Standard 8868-2018. A list of approved additional sensors is provided in the Appendix to the Technical Regulations.
+
+**2026: Article 8.4.1**
+All ECUs, actuators and control and monitoring sensors listed below, must not be disconnected, disassembled or modified under any circumstances. It is the competitor's responsibility to ensure their continuous and correct functionality. Any defective sensor must be replaced before the next session or race. Mandatory sensor equipment:
+• Throttle pedal position sensor
+• Four Wheel speed sensors
+• Gearbox primary shaft rpm sensor
+• Brake pressure sensor
+• Two Clutch paddle sensors
+• Two Shift paddle sensors
+• Two DRS paddle sensors
+• Two Clutch actuator position sensors
+• Gearbox barrel position sensor
+• Gearshift actuator position sensor
+• Hydraulic pressure sensor
+• DRS position sensor
+• Coolant pressure sensor
+• Four TPMS sensors
+• On-board camera described by Art.8.13.
+• Engine Oil Temperature Sensor
+• Fuel Temperature Sensor
+• LH Throttle position sensor
+• RH Throttle position sensor
+• Engine case pressure sensor
+Each input device including but not limited to switch, button, paddle or pedal, used by the driver must be connected to the Standard ECU.
+
+**2026: Article 8.4.2**
+Any kind of data transmission (including telemetry) is prohibited, with the exception of:
+• the Marshalling System defined in Article 8.9;
+• the Driver Radio described by Art.8.6;
+• The On-Board Camera system described by Art.8.13;
+• the TPMS system described in Art.8.4.1;
+• a biometric devices homologated according to the FIA Standard 8868-2018;
+• a monitoring device used for the management of chronic medical conditions only where the licence of driver of the car carries the relevant medical aptitude endorsement as detailed in Appendix L to the ISC. In such cases, at the discretion of the Technical Delegate, the competitor may be required to a) provide documentation detailing the function of the device, specifically in relation to the wireless data transmission. b) demonstrate via physical inspection that the device cannot be used to transmit data other than that required for the sole intended purpose, or c) implement specific processes or procedures required by the Technical Delegate to ensure that the device cannot be used to transmit data other than that required for the sole intended purpose.
+
+**Reference:** Article 8.4 (Data Acquisition) – Formula 3 Technical Regulations

@@ -1,0 +1,197 @@
+2026: 2.14 Coordinate system and references  – ARTICLE 2: DEFINITIONS  
+
+2025: 11.2 Permitted Modifications and Adjustments  – ARTICLE 11: BRAKE SYSTEM  
+**Section 1.6.2 – Service Schedules**  
+2025: system user manual. 1.6.2 All cars must be serviced according to the service schedules provided to the competitor for the car, the power unit , the gearbox and the systems. Competitors may be requested to demonstrate that they have appropriate parts tracking and lifing systems in place to ensure service intervals are respected.  
+2026: gearbox supplier user manual and the system user manual. 1.6.2 All cars must be serviced according to the service schedules provided to the competitor for the car, the power unit , the gearbox and the systems. Competitors may be requested to demonstrate that they have appropriate parts tracking and lifing systems in place to ensure service intervals are respected.
+
+**Document Header (post‑Article 1.7.2)**  
+2025: 2025 Formula 3 Technical Regulations 6 25 March 2025 © 2025 Fédération Internationale de l’Automobile Issue 4  
+2026: 2026 Formula 3 Technical Regulations 6 10 December 2025 © 2025 Fédération Internationale de l’Automobile Issue 2  
+
+**Article 2.12.1 – Reference Plane**  
+2025: “…the three contact points between the top surface of scrutineering platform pads and the surfaces inside **the periphery of the** three designated holes described in Article 3.2.2.f…”  
+2026: “…the three contact points between the top surface of scrutineering platform pads and the surfaces inside the three designated holes described in Article 3.2.2.f…”
+
+**Article 2.14 – Heading**  
+2025: Precision of Numerical Values Any numerical values specified in these Regulations as limits (maxima or minima), will be considered to be the limits regardless of the decimals quoted.  
+2026: Coordinate system and references  
+
+**Article 2.14.1 – New Text (replaces 2.14 2025)**  
+2026: 2.14.1 A right‑handed Cartesian (X, Y, Z) coordinate system will be used in these regulations, defined in the following way:  
+ a. The X axis is in the rearwards longitudinal direction, and is parallel to the reference and car centre planes.  
+  Depending on the regulation in question, the local origin can vary, and the following convention is used:  
+   i. X A=0 mm is defined to be on plane A‑A  
+   ii. X B=0 mm is defined to be on plane B‑B  
+   iii. X C=0 mm is defined to be on plane C‑C  
+   iv. The planes X F=0 and X R=0 are defined as the planes which respectively pass through the origin of the two front or two rear wheels’ coordinate systems, with the wheels in the straight‑ahead position.  
+**Article 3.1.1 – Aerodynamic Influence (General Principles and Legality Checking)**  
+2025: construction that is designed to bridge the gap between the sprung part of the car and the ground is prohibited under all circumstances. With the exception of the parts necessary for the adjustment of the DRS, or any incidental movement due to the steering system, any car system, device or procedure which uses driver movement as a means of altering the aerodynamic characteristics of the car is prohibited. The Aerodynamic influence of any component of the car not considered to be bodywork must be incidental to its main function. Any design which aims to maximise such an aerodynamic influence is prohibited.  
+
+2026: construction that is designed to bridge the gap between the sprung part of the car and the ground is prohibited under all circumstances. With the exception of the driver adjustable bodywork (DRS) described in Article 3.5.1 (in addition to minimal parts solely associated with its actuation) and any flexible seals specifically permitted, all aerodynamic components or bodywork influencing the car’s aerodynamic performance must be rigidly secured and immobile with respect to their frame of reference. Furthermore, these components must produce a uniform, solid, hard, continuous, impervious surface under all circumstances. The Aerodynamic influence of any component of the car not considered to be bodywork must be incidental to its main function. Any design which aims to maximise such an aerodynamic influence is prohibited.  
+
+**Article 3.2.2 – Plank Assembly (Thickness Requirement)**  
+2025: A minimum thickness of 4 mm will be accepted due to wear, **and conformity to this provision will be checked at the peripheries** and must be respected at least in one position at the peripheries of the designated holes.  
+
+2026: A minimum thickness of 4 mm will be accepted due to wear **and must be respected at least in one position at the peripheries of the designated holes**.   (Article 3.2.2)  
+**ARTICLE 4 – MASS 4.1 Minimum mass**  
+2025: “The mass of the car, without fuel, must not be less than **722 kg** …”  
+2026: “The mass of the car, without fuel, must not be less than **725 kg 729 kg** …”
+
+**BODYWORK MODIFICATIONS – pre‑Section 3.4 (new provisions added in 2026)**  
+
+2026: “power unit supplier user manual, gearbox supplier user manual, system manual, it is not permitted to apply tape to cover a junc tion between components, holes or cavities.”  
+
+2026: “g. Any component inside the bodywork can be covered with thermal insulation material and/or wear protection material and/or electromagnetic protection material providing this insulation and/or wear protection material and/or electromagnetic protection material has no other function than protecting components against heat and/or chafing and/or electromagnetic perturbations.”  
+
+2026: “h. Minimal material removal on Type 2 and Type 3 components is permitted for the sole purpose of preventing chafing.”  
+
+2026: “i. Internal cooling ducts may be added as defined in the car supplier user manual.”  
+
+2026: “Additional internal cooling ducts are permitted if they are of the minimum required size, and are for the sole purpose of ensuring the reliable operation of mechanical or electrical components. Written details must be provided to and approved by the F 3 Promoter Technical Director and the FIA.”  
+
+2026: “k. Modifications that are necessary to install a radio communication system may be made provided they have been approved by the F 3 Promoter Technical Director and the FIA.”  
+
+2026: “l. Providing their purpose is the protection of the retaining wheel cables or brake lines, it is permitted to add covers to the leading edge or trailing edges of the wishbones. Such covers can only be made by trimming components available from the car supplier.”  
+
+2026: “m. Glue and filler may be added provided they are to the specification defined in the car supplier user manual.”  
+
+---
+
+### Summary of changes
+- **Minimum car mass** increased from **722 kg** (2025) to a range of **725 kg – 729 kg** (2026).  
+- **New bodywork‑modification rules** introduced in 2026, detailing permissible uses of tape, insulation, material removal, internal cooling ducts, radio‑system installations, protective covers, and glue/filler – all requiring specific approvals or adherence to supplier manuals. No identical lines from the 2025 text were altered; the above are the only additions/modifications.
+**8.4.1 – Data Acquisition**  
+2025: It is forbidden to add wireless data transmission systems other than: … (list of permitted systems)  
+2026: All ECUs, actuators and control and monitoring sensors listed below, must not be disconnected, disassembled or modified under any circumstances. It is the competitor’s responsibility to ensure their continuous and correct functionality. Any defective sensor must be replaced before the next session or race. **Mandatory sensor equipment:** Throttle pedal position sensor; Four wheel speed sensors; Gearbox primary shaft rpm sensor; Brake pressure sensor; Two clutch‑paddle sensors; Two shift‑paddle sensors; Two DRS‑paddle sensors; Two clutch‑actuator position sensors; Gearbox barrel position sensor; Gearshift actuator position sensor; Hydraulic pressure sensor; DRS position sensor; Coolant pressure sensor; Four TPMS sensors; On‑board camera (Art. 8.13); Engine oil temperature sensor; Fuel temperature sensor; LH throttle position sensor; RH throttle position sensor; Engine case pressure sensor.  
+Each input device (switch, button, paddle or pedal) used by the driver must be connected to the Standard ECU. — Article 8.4.1  
+
+**8.4.2 – Data Transmission**  
+2025: Apart from the GPS device that is part of the Marshalling system supplied by F 3 Promoter, no other GPS system is permitted. During Official Tests only, a GPS system, which is connected to the onboard camera and not recorded on the original ECU/data‑logger device, may be used.  
+2026: Any kind of data transmission (including telemetry) is prohibited, with the exception of:  
+- the Marshalling System defined in Article 8.9;  
+- the Driver Radio described by Art. 8.6;  
+- the On‑Board Camera system described by Art. 8.13;  
+- the TPMS system described by Art. 8.4.1;  
+- a biometric device homologated according to FIA Standard 8868‑2018;  
+- a monitoring device used for the management of chronic medical conditions only where the driver’s licence carries the relevant medical‑aptitude endorsement (Appendix L to the ISC). In such cases, at the discretion of the Technical Delegate, the competitor may be required to a) provide documentation detailing the function of the device, specifically in relation to the wireless data transmission; b) demonstrate via physical inspection that the device cannot be used to transmit data other than that required for the sole intended purpose; c) implement specific processes or procedures required by the Technical Delegate to ensure the device cannot be used to transmit data other than that required for the sole intended purpose. — Article 8.4.2  
+
+**Removed sections (2025 only)**  
+2025: 8.4.2 Apart from the GPS device … may be used.  
+2025: 8.4.3 Disconnecting or removing any sensor fitted to the car as part of the original data acquisition system and listed in the F3 system user manual is forbidden.  
+2025: 8.4.4 It is the responsibility of the competitor to check the permanent functionality of all the sensors fitted on board as part of the car’s original data acquisition system.  
+2025: 8.4.5 Defective sensors connected with the original data acquisition must be replaced prior to the next session or race.  
+2025: 8.4.6 It is the duty of each competitor to record and retain all data from the system of each car … no later than one hour after the end of the last session or the car’s release from parc fermé.  
+2025: 8.4.7 Additional sensors may be fitted to the car provided the additional sensors are only logged to the original ECU/data‑logger device … (full paragraph on approvals, exceptions and CAN connection).  
+2025: 8.4.8 Additional sensors may only be connected to analogue input channels of the original ECU/data‑logger device … any type of sensor and/or signal multiplexing is forbidden.  
+2025: 8.4.9 Sensors and acquisition systems may only be fitted for the sole purpose of passive data acquisition.  
+2025: 8.4.10 Should the installation of a sensor require a modification of a genuine part of the car, written details must be provided …  
+2025: 8.4.11 Apart from pitot tube and pushrod end strain gauges no sensor must protrude from the structure or the bodywork of the car in the external airflow.  
+2025: 8.4.12 During Official Tests, one onboard camera may be added … (approval required).  
+2025: 8.4.13 The remote flash disc recorder located in the cockpit may be removed by the drivers at the end of the qualifying session and the races.  
+2025: 8.4.14 A pitot tube can only be fitted in the pitot‑tube position specified in the car supplier manual. — Articles 8.4.2 – 8.4.14  
+
+*(All changes are taken from the respective 2025 and 2026 Formula 3 Technical Regulations.)*
+**Article 8 – Technical Systems (2025 vs 2026)**  
+
+2025: internal tyre carcasses temperature measurement systems (unless required by the F3 Promoter and the FIA as per Article 10.4.3) are not permitted. (Art. 8.15)  
+2026: Contactless speed, slip angle sensors, known as “Datron”, infrared cameras fitted on the car and internal tyre carcasses temperature measurement systems (unless required by the F3 Promoter and the FIA as per Article 10.4.3) are not permitted. (Art. 8.15)
+
+---  
+
+**New subsections introduced in 2026 (no 2025 counterpart)**  
+
+2026: sensor or electronic device not listed under Article 8.4.1 shall be considered an additional component. Written approval by the F2 Promoter Technical Director and the FIA Technical Delegate must be obtained prior to the use of any additional sensor or electronic device in a Competition or Official Test. The submission for approval must include the specification, make, model, wiring connections, and installation details for each additional component. (Art. 8.4.1)  
+
+2026: Each additional sensor must be connected exclusively to a single analogue or digital input of the Standard ECU via the connectors specified in the System User Manual. (Art. 8.4.1)  
+
+2026: The additional on‑board camera allowed for Official Test must be connected as specified in the System User Manual. (Art. 8.4.1)  
+
+2026: It is strictly prohibited to connect any additional sensor or device to the car’s CAN lines, except for the audio warning system as permitted under Article 8.14. (Art. 8.4.1)  
+
+2026: The use of any additional data logger is forbidden, with the sole exception of video‑signal recording of the single on‑board camera, which may be installed during Official Tests. (Art. 8.4.1)  
+
+2026: All forms of sensor or signal multiplexing—including CAN converters—are prohibited. (Art. 8.4.1)  
+
+2026: The only exception applies to biometric devices homologated in accordance with FIA Standard 8868‑2018. (Art. 8.4.1)  
+
+2026: A list of approved additional sensors is provided in the Appendix to the Technical Regulations. (Art. 8.4.1)  
+
+2026: Apart from the GPS device that is part of the Marshalling system supplied by F3 Promoter, no other GPS system is permitted. During Official Tests only, a GPS system, which is connected to the on‑board camera and not recorded on the original ECU/data‑logger device, may be used. (Art. 8.4.2)  
+
+2026: Disconnecting or removing any sensor fitted to the car as part of the original data acquisition system and listed in the F3 system user manual is forbidden. (Art. 8.4.3)  
+
+2026: It is the responsibility of the competitor to check the permanent functionality of all the sensors fitted on board as part of the car’s original data acquisition system. (Art. 8.4.4)  
+
+2026: Defective sensors connected with the original data acquisition must be replaced prior to the next session or race. (Art. 8.4.5)  
+
+2026: It is the duty of each competitor to record and retain all data from the system of each car from the first Official Test of the current season in the format described in the F3 system manual. Copies of all such data must be made available to the scrutineers if deemed necessary and may be used for scrutineering purposes. Every running day the competitors must bring copies of the entire day data to F3 Promoter assistance staff no later than one hour after the end of the last session or the car’s release from parc fermé. (Art. 8.4.6)  
+
+2026: Additional sensors may be fitted to the car provided the additional sensors are only logged to the original ECU/data‑logger device and the fittings preserve the original instruments and electrical system. Written details of all additional sensors fitted to the car must be provided to and approved by the F3 Promoter Technical Director and the FIA Technical Delegate prior to use in each competition. The information must contain the specification, make, model, wiring connection and the installation in the car of each additional sensor. Any additional data‑logging device or CAN extension unit is not permitted. The only exception are biometric devices homologated according to FIA Standard 8868‑2018. It is forbidden to connect any additional device to the CAN connection of the car other than the original car equipment (as defined in the F3 system user manual) and the audio warning system as per Article 8.14. (Art. 8.4.7)  
+
+2026: Additional sensors may only be connected to analogue input channels of the original ECU/data‑logger device via the connector(s) specified in the F3 system user manual. Each analogue input channel may record only one data stream generated from a single sensor. Any type of sensor and/or signal multiplexing is forbidden. (Art. 8.4.8)  
+
+2026: Sensors and acquisition systems may only be fitted for the sole purpose of passive data acquisition. (Art. 8.4.9)  
+
+2026: Should the installation of a sensor require a modification of a genuine part of the car, written details must be provided to and approved by the F3 Promoter Technical Director and the FIA Technical Delegate prior to use. (Art. 8.4.10)  
+
+2026: Apart from pitot‑tube and push‑rod end strain gauges no sensor must protrude from the structure or the bodywork of the car into the external airflow. The volume inside the side pods and the volume inside the rims are not considered as area submitted to the external airflow. (Art. 8.4.11)  
+
+2026: During Official Tests, one on‑board camera may be added to the car provided it is fitted in a safe position and securely mounted. Approval of the F3 Promoter Technical Director and the FIA Technical Delegate is required prior to installation. (Art. 8.4.12)  
+
+2026: The remote flash‑disc recorder located in the cockpit may be removed by the drivers at the end of the qualifying session and the races. (Art. 8.4.13)  
+
+2026: A pitot tube can only be fitted in the pitot‑tube position specified in the car supplier manual. (Art. 8.4.14)  
+
+2026: Contactless speed, slip angle sensors, known as “Datron”, infrared cameras fitted on the car and internal tyre carcasses temperature measurement systems (unless required by the F3 Promoter and the FIA as per Article 10.4.3) are not permitted. (Art. 8.4.15)  
+
+---  
+
+**Unchanged sections (no differences shown)**  
+
+*All other wording in Articles 8.5 – 8.14 and Articles 9 – 9.5 is identical between 2025 and 2026 and therefore omitted.*
+**Article 9.5.3 – Clutch paddle ergonomics**  
+2025: *“…they must have the same mechanical **travel** characteristics, however they may not need to be mapped identically.”*  
+2026: *“…they must have the same mechanical **t ravel** characteristics, however they may not need to be mapped identically.”*  
+
+**Article 9.5.4 – Clutch travel positions**  
+2025: *“Other than during the **standing start procedure**, the minimum and maximum travel positions of the clutch operating device must correspond to the clutch fully engaged normal rest position and fully disengaged (incapable of transmitting any useable torque) positions respectively.”*  
+2026: *“Other than during the **standing when the start‑setup procedure (described in the Appendix) is activated**, the minimum and maximum travel positions of the clutch operating device must …”*   (text continues as in 2025)  
+**Article 10 – SUSPENSION, STEERING SYSTEMS, WHEELS AND TYRES (2026 – new article, not present in 2025)**  
+2026: 10.1 Definitions  
+2026: 10.1.1 Sprung suspension – The means whereby all complete wheels are suspended from the sprung mass by a spring medium.  
+2026: 10.1.2 Complete wheel – Wheel, inflated tyre, and the items detailed in this Article. The complete wheel is considered part of the suspension. The only permitted additional parts which may be physically attached to the wheel in addition to the tyre are; valves for filling and discharging the tyre, wheel fasteners, balance weights, drive pegs, standard supply tyre pressure and temperature monitoring sensors.  
+2026: 10.1.3 Wheel or wheel rim – Rim (including lips and barrel), spokes and centre hub.  
+2026: 10.2 General Principles  
+2026: 10.2.1 Suspension must comply with the requirements of a Formula 3 Car as detailed in Article 1.5.  
+2026: 10.2.2 The wheels are specific to FIA Formula 3 Championship and can only be purchased from the F3 Promoter.  
+2026: 10.2.3 Wheel colour and the manufacturer’s logo may not be changed.  
+2026: 10.3 Permitted Modifications and Adjustments  
+2026: 10.3.1 Suspension settings may be changed provided the adjustment margins specified by the car supplier for each component are respected.  
+2026: 10.3.2 Suspension mounting points and mounting brackets may not be modified. Camber angles may be adjusted … (full text as in 2026).  
+2026: 10.3.3 Only springs and torsion bars specified by the car supplier and supplied by the F 3 Promoter may be used.  
+2026: 10.3.4 Adjustment of shock absorbers is free using the range available on the part provided by the car supplier.  
+2026: 10.3.5 Damper valves may be changed but only by using the range of parts detailed in the car supplier user manual.  
+2026: 10.3.6 No modification is permitted to any damper sub‑component.  
+2026: 10.3.7 Thrust bearings or spacers may be added between the springs and spring platforms.  
+2026: 10.3.8 Only solid packers, metal‑wool washers and bump rubbers may be fitted to damper shafts … (full text as in 2026).  
+2026: 10.4 Tyres – (full clauses as in 2026).  
+2026: 10.5 Wheel attachment and retention – (full clauses as in 2026).  
+
+---
+
+**Article 11 – BRAKE SYSTEM (wording change)**  
+2025 (Article 11.2.1): One brake pressure sensor is mandatory, **if another is fitted it will be considered as data acquisition optional equipment.**  
+2026 (Article 11.2.1): One brake pressure sensor is mandatory, **if another is fitted it** *(the remainder of the sentence is omitted in 2026, removing the reference to “data acquisition optional equipment”).*  
+
+---
+
+**Article 12 – CAR CONSTRUCTION AND SURVIVAL CELL (removed in 2026)**  
+2025 (Article 12.1 Definitions and General Requirements – full text).  
+2025 (Article 12.2 Cockpit Specification – full text).  
+2025 (Article 12.3 Permitted Modifications and Adjustments – full text).  
+
+*(All lines of Article 12 present in the 2025 Technical Regulations are omitted in the 2026 version; therefore they are shown only under the 2025 label as removed.)*  
+2025 — Approved harnesses are listed in Technical List n°57. (Article 14.5 Safety Harnesses)
+
+2026 — Height: From 400mm to 1000mm from the ground. (Article 14.3 Rear view mirrors)

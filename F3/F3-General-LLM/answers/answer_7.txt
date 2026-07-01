@@ -1,0 +1,20 @@
+# Safety Car Procedure Changes: 2025 vs 2026
+
+**Article 40.1 (New in 2026)**
+2026: The FIA safety car will be driven by an FIA appointed safety car driver and will carry a FIA F3 safety car observer capable of recognising all the competing cars, and who is in permanent radio contact with race control.
+
+**Article 40.2 (New in 2026)**
+2026: 20 minutes before the start of the formation lap the safety car will leave the pit lane and take up position at the front of the grid and remain there until the five-minute signal is given. At this point (except under Article 37.16) it will cover a whole lap of the circuit and take up position.
+
+**Article 40.3 (New in 2026)**
+2026: The safety car may be brought into operation to neutralise a race upon the order of the Race Director. It will be used only if Competitors or officials are in immediate physical danger on or near the track but the circumstances are not such as to necessitate suspending the race.
+
+**Article 40.13**
+2025: When the Race Director decides it is safe to call in the safety car, the message "SAFETY CAR IN THIS LAP" will be sent to all Competitors via the official messaging system and the safety car's orange lights will be extinguished. This will be the signal to the Competitors and drivers that it will be entering the pit lane at the end of that lap. At this point the first car in line behind the safety car may dictate the pace and, if necessary, fall more than ten car lengths behind it. In order to avoid the likelihood of accidents before the safety car returns to the pits, from the point at which the lights on the safety car are turned out drivers must proceed at a pace which involves no erratic acceleration or braking nor any other manoeuvre which is likely to endanger other drivers or impede the restart. As the safety car is approaching the pit entry the "SC" boards will be withdrawn and, other than on the last lap of the race, as the leader approaches the Line the yellow flags will be withdrawn and a green flag will be displayed at the Line.
+
+2026: Article 40.13 has been removed entirely and replaced with different wording.
+
+**Article 40.13 (Replacement Text)**
+2026: line of cars behind the safety car. Whilst they are overtaking, and in order to ensure this may be carried out safely, the cars on the lead lap must always stay on the racing line unless deviating from it is unavoidable. Unless the Race Director considers the presence of the safety car is still necessary, once the last lapped car has passed the leader the safety car will return to the pits at the end of the following lap. At Race Director absolute discretion, they may send the message "OVERTAKING WILL NOT BE PERMITTED" to all Competitors via the official messaging system. At this point the first car in line behind the safety car may dictate the pace and, if necessary, fall more than ten car lengths behind it. In order to avoid the likelihood of accidents before the safety car returns to the pits, from the point at which the lights on the safety car are turned out drivers must proceed at a pace which involves no erratic acceleration or braking nor any other manoeuvre which is likely to endanger other drivers or impede the restart. As the safety car is approaching the pit entry the "SC" boards will be withdrawn and, other than on the last lap of the race, as the leader approaches the Line the yellow flags will be withdrawn and a green flag will be displayed at the Line.
+
+**Reference:** Article 40 (Safety Car), 2025/2026 Formula 3 Sporting Regulations

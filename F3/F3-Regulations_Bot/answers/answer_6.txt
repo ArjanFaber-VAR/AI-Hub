@@ -1,0 +1,13 @@
+## Brake System Changes
+
+**Article 11.2.1 – Brake Pressure Sensors**
+
+2025:
+One brake pressure sensor is mandatory, if another is fitted it will be considered as data acquisition optional equipment.
+
+2026:
+One brake pressure sensor is mandatory, if another is fitted it [text truncated]
+
+---
+
+**Reference:** Article 11.2.1 (Brake System)

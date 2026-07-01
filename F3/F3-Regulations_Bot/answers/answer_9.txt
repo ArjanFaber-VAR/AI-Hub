@@ -1,0 +1,25 @@
+
+
+## TPMS Sensors (Tire Pressure Monitoring System)
+
+**TPMS (Tire Pressure Monitoring System)** sensors are electronic devices installed in vehicles to continuously monitor the air pressure inside tires. They alert the driver when tire pressure falls below safe levels, helping prevent blowouts and improve fuel efficiency.
+
+### Types of TPMS:
+
+1. **Direct TPMS** – Uses pressure sensors mounted inside each tire, directly measuring air pressure.
+2. **Indirect TPMS** – Uses wheel speed sensors to detect changes in tire rotation (indicating pressure loss).
+
+### In Formula 3:
+
+According to the F3 Technical Regulations (both 2025 and 2026 versions), TPMS is specifically mentioned:
+
+- **Article 8.4.1** references: "Four TPMS sensors" as part of the mandatory sensor equipment list.
+- The system is permitted under **Article 8.4.2** which lists exceptions for data transmission.
+
+### Purpose in Racing:
+
+- **Safety** – Prevents dangerous low-pressure situations during high-speed running
+- **Performance** – Ensures optimal tire pressure for grip and handling
+- **Monitoring** – Provides real-time pressure data during sessions
+
+In F3 cars, four TPMS sensors are mandatory (one per tire) as specified in the regulations, connected to the car's data acquisition system to log and monitor tire pressures throughout the competition.

@@ -1,0 +1,17 @@
+
+
+Based on the comparison between the 2025 and 2026 Formula 3 Technical Regulations, the text regarding **biometric devices homologated according to the FIA Standard 8868-2018** appears in both versions and there is **no change** to this provision.
+
+**2025 (Article 8.4.1):**
+"...biometric devices homologated according to the FIA Standard 8868-2018;"
+
+**2026 (Article 8.4.1):**
+"...biometric devices homologated according to the FIA Standard 8868-2018;"
+
+The wording remains identical. This device is listed as one of the permitted wireless data transmission systems (alongside systems permitted in Article 8.13, the TPMS system, and monitoring devices for chronic medical conditions with proper documentation).
+
+**Reference:** Article 8.4.1 (Data Acquisition) - both years
+
+---
+
+**Summary:** No change to the biometric devices regulation between 2025 and 2026.

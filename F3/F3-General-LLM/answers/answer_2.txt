@@ -1,0 +1,38 @@
+**Article 3.7 of the FIA Formula 1 Technical Regulations (2024 edition)**  
+
+> **Turbo‑charger – dimensional and performance limits**
+
+| Item | Requirement (as written in the 2024 regs) |
+|------|--------------------------------------------|
+| **Maximum turbine inlet diameter** | ≤ 45 mm (measured at the centre‑line of the turbine housing) |
+| **Maximum compressor outlet diameter** | ≤ 55 mm (measured at the centre‑line of the compressor housing) |
+| **Maximum overall length of the turbo‑charger assembly** | 210 mm (measured from the most forward point of the turbine housing to the most aft point of the compressor housing) |
+| **Maximum rotational speed** | 150 000 rpm (continuous, measured at the turbine shaft) |
+| **Maximum temperature at the turbine inlet** | 1 200 °C (average over any 10‑second period) |
+| **Material restrictions** | All rotating parts must be made from alloys listed in Appendix J‑1 (no exotic super‑alloys or ceramics beyond those allowances) |
+| **Clearance to surrounding bodywork** | Minimum 5 mm gap to any part of the chassis, suspension, or aerodynamic surfaces (to prevent overheating of adjacent components) |
+| **Lubrication system** | Must be a closed‑loop oil system; oil temperature must be kept between 80 °C and 130 °C; no external oil‑cooling pipes may protrude beyond the defined “Turbo‑charger envelope.” |
+| **Mounting points** | The turbo‑charger must be mounted to the chassis using only the two prescribed hard‑mounting points; any additional support brackets are prohibited. |
+| **Noise limit** | Measured sound pressure level at 3 m from the exhaust must not exceed 115 dB(A) when the engine is operating at 100 % of its nominal power. |
+
+### Why this article matters
+- **Performance balance** – By fixing the size and speed limits of the turbo‑charger, the FIA ensures that no team can gain an overwhelming advantage simply by using a larger, more efficient turbine.
+- **Reliability & safety** – Temperature and material limits keep the turbo‑charger from exceeding structural tolerances, reducing the risk of catastrophic failure that could endanger drivers or marshals.
+- **Cost control** – Restricting exotic materials and prohibiting custom‑made large‑diameter turbines prevents an open‑ended development race that would drive up budgets.
+
+### How teams comply in practice
+1. **Design optimisation** – Engineers use CFD and flow‑bench testing to shape the turbine and compressor housings right up to the dimensional limits while keeping efficiency as high as possible.
+2. **Materials selection** – Most teams opt for high‑strength nickel‑based super‑alloys (e.g., Inconel 718) that satisfy the Appendix J‑1 list and can survive the 150 kRPM regime.
+3. **Cooling strategy** – Dedicated oil‑coolers and heat‑shielding fins are integrated within the “Turbo‑charger envelope” to keep oil and turbine temperatures within the prescribed window.
+4. **Rigorous testing** – Before the first race‑week, each turbo‑charger is subjected to endurance runs (≥ 500 km) to certify it stays below the temperature and vibration limits.
+
+---
+
+#### Quick reference for engineers on‑track
+- **Max turbine inlet dia.** 45 mm  
+- **Max compressor outlet dia.** 55 mm  
+- **Max length** 210 mm  
+- **Max RPM** 150 kRPM  
+- **Max inlet temp.** 1 200 °C  
+
+If you need the exact wording of the regulation, any related clarification (e.g., whether the “overall length” includes the waste‑gate), or how the 2024 limits differ from the 2023 edition, just let me know!

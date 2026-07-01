@@ -1,0 +1,102 @@
+**Title page**  
+2025: 25 March 2025 © 2025 Fédération Internationale de l’Automobile Issue 4  
+2026: 10 December 2025 © 2025 Fédération Internationale de l’Automobile Issue 2  
+
+**Convention note**  
+2025: Pink text: Modifications to Issue 3 wording.  
+2026: Pink text: Modifications to 2025 Issue 5 wording.  
+
+**Article 2 — Definitions § 2.14**  
+2025: Precision of Numerical Values  
+2026: Coordinate system and references  
+
+**Article 2 — Definitions § 2.15** *(new in 2026)*  
+2026: Precision of Numerical Values  
+
+**Article 1.6.2**  
+2025: system user manual.  
+2026: gearbox supplier user manual and the system user manual.  
+
+**Section 2.14** *(old wording removed)*  
+2025: Any numerical values specified in these Regulations as limits (maxima or minima), will be considered to be the limits regardless of the decimals quoted.  
+
+**Section 2.14 – Coordinate system and references** *(added in 2026)*  
+2026: Coordinate system and references  
+2026: 2.14.1 a) The X axis is in the rearwards longitudinal direction, and is parallel to the reference and car centre planes.  
+2026: 2.14.1 b) Depending on the regulation in question, the local origin can vary, and the following convention is used:  
+2026: 2.14.1 c i) X A=0 mm is defined to be on plane A‑A  
+2026: 2.14.1 c ii) X B=0 mm is defined to be on plane B‑B  
+2026: 2.14.1 c iii) X C=0 mm is defined to be on plane C‑C  
+2026: 2.14.1 c iv) The planes X F=0 and X R=0 are defined as the planes which respectively pass through the origin of the two front or two rear wheels’ coordinate systems, with the wheels in the straight.  
+
+**Article 2.14.2 – Further Conventions** *(new in 2026)*  
+2026: a) If no units are specified, it is implicit the unit will be in millimetres.  
+2026: b) The suffix “L” may be used for local coordinates in specific rules, i.e. XL, YL, ZL, where these local axes are defined within a specific Article for local use.  
+2026: c) Planes will be referred to as the axis to which they are normal to (e.g. X‑plane or XA=300 plane).  
+2026: d) Unless otherwise specified, the positive side of the Y axis is used in the various articles and it is implicit that a symmetrical rule applies for the other side of the car. The terms “inboard” or “outboard”, when used in reference to the Y coordinate, respectively refer to closer to or further away from the car centre plane.  
+2026: e) Unless otherwise specified any measurements and references will be with the wheels in the straight‑ahead position (the wheel rotation axis lying within an X‑plane).  
+2026: f) Unless otherwise specified, when a viewing direction is stated, “front” and “rear” are parallel to the X axis, “side” is parallel to the Y axis (in the direction towards the car centre plane) and “above”, “below” and “plan” are parallel to the Z axis.  
+2026: g) Unless otherwise specified, directions of angles, slopes and incidences are taken in context of the right‑handed Cartesian coordinate system.  
+
+**Article 2.15 – Precision of Numerical Values** *(new in 2026)*  
+2026: Any numerical values specified in these Regulations as limits (maxima or minima), will be considered to be the limits regardless of the decimals quoted.  
+
+**Article 4 – Mass**  
+2025: 4.1 Minimum mass The mass of the car, without fuel, must not be less than **722 kg** …  
+2026: 4.1 Minimum mass The mass of the car, without fuel, must not be less than **725 kg 729kg** …  
+
+**Article 3.4 – Dimensions** *(new in 2026)*  
+2026: 3.4 Dimensions  
+2026: 3.4.1 Bodywork dimensions  
+2026: a. Compliance with bodywork dimensional regulations will be assessed on the scrutineering platform…  
+2026: b. All height measurements will be taken normal to and from the reference plane defined in Article 2.13.1.  
+2026: c. These measurements will be taken whilst a mass of **20 kg** is placed simultaneously on the under‑floor on each side of the car, as specified in the FIA F3 Team Documentation SFTP Area.  
+2026: 3.4.2 Physical Legality Checking  
+2026: a. A positional tolerance of + /‑ 5 mm will be accepted from the car supplier’s specification for the Front Wing Bodywork, Rear Wing Bodywork, and Floor Bodywork behind XR=0.  
+2026: b. A tolerance of Z=+ /‑ 5 mm will be accepted for parts of the car lying on the Z=0 plane, with 375 ≤ Y ≤ 375 and ahead of XR=0.  
+2026: c. All other bodywork dimensions must be as specified by the car‑relevant supplier to a tolerance of + /‑ 5 mm unless otherwise specified and may be checked at the discretion of the FIA Technical Delegate.  
+2026: e. Minimal discrepancies from the car supplier’s specified surfaces will also be accepted in the following cases:  
+2026:  i. Minimal repairs on type 2 parts carried out according to the relevant user manual.  
+2026:  ii. Tape, provided it does not achieve an aerodynamic effect otherwise not permitted by Article 3.  
+2026:  iii. Junctions between bodywork panels.  
+2026:  iv. Local bodywork fixing details.  
+
+**Article 3.1.1 – Aerodynamic Influence** *(additional wording in 2026)*  
+2025: With the exception of the driver adjustable bodywork (DRS) described in Article 3.5.1 (in addition to minimal parts solely associated with its actuation) and any flexible seals specifically permitted, all aerodynamic components or bodywork influencing the car’s aerodynamic performance must be rigidly secured and immobile with respect to their frame of reference.  
+2026: With the exception of the driver adjustable bodywork (DRS) described in Article 3.5.1 (in addition to minimal parts solely associated with its actuation) and any flexible seals specifically permitted, all aerodynamic components or bodywork influencing the car’s aerodynamic performance must be rigidly secured and immobile with respect to their frame of reference. **Furthermore, these components must produce a uniform, solid, hard, continuous, impervious surface under all circumstances.**  
+
+**Article 3.1.2 – Physical Legality Checking**  
+2025: The cars may be measured during a Competition in order to check their conformance to the geomteries and component positional requirements specified by the car supplier.  
+2026: The cars may be measured during a Competition in order to check their conformance to the Technical Regulations.  
+
+**Article 3.2.2 (e) – Plank Assembly Thickness**  
+2025: A minimum thickness of 4 mm will be accepted due to wear, and conformity to this provision will be checked at the peripheries and must be respected at least in one position at the peripheries of the designated holes.  
+2026: A minimum thickness of 4 mm will be accepted due to wear and must be respected at least in one position at the peripheries of the designated holes.  
+
+**Article 8.4.1 – Wireless data transmission / Mandatory sensor list** *(complete rewrite in 2026)*  
+2025: It is forbidden to add wireless data transmission systems other than: • systems permitted in Article 8.13; • the TPMS system as defined in Article 10.4.3; • biometric devices homologated according to the FIA Standard 8868‑2018; • monitoring devices used for the management of chronic medical conditions only where the licence of driver of the car carries the relevant medical aptitude endorsement as detailed in Appendix L to the ISC. In such cases, at the discretion of the Technical Delegate, the competitor may be required to …  
+2026: All ECUs, actuators and control and monitoring sensors listed below, must not be disconnected, disassembled or modified under any circumstances. It is the competitor’s responsibility to ensure their continuous and correct functionality. Any defective sensor must be replaced before the next session or race. Mandatory sensor equipment: • Throttle pedal position sensor • Four‑wheel speed sensors • Gearbox primary‑shaft RPM sensor • Brake pressure sensor • Two clutch‑paddle sensors • Two shift‑paddle sensors • Two DRS‑paddle sensors • Two clutch‑actuator position sensors • Gearbox barrel position sensor • Gearshift‑actuator position sensor • Hydraulic pressure sensor • DRS position sensor • Coolant pressure sensor • Four TPMS sensors • On‑board camera described by Art. 8.13 • Engine‑oil temperature sensor • Fuel temperature sensor • LH throttle‑position sensor • RH throttle‑position sensor • Engine‑case pressure sensor Each input device—including but not limited to switch, button, paddle or pedal—used by the driver must be connected to the Standard ECU.  
+
+**Article 8.4.2 – GPS usage**  
+2025: Apart from the GPS device that is part of the Marshalling system supplied by F 3 Promoter, no other GPS system is permitted. During Official Tests only, a GPS system, which is connected to the onboard camera and not recorded on the original ECU/data‑logger device, may be used.  
+2026: Any kind of data transmission (including telemetry) is prohibited, with the exception of: • the Marshalling System defined in Article 8.9; • the Driver Radio described by Art. 8.6; • the On‑Board Camera system described by Art. 8.13; • the TPMS system described by Art. 8.4.1; • a biometric device homologated according to the FIA Standard 8868‑2018; • a monitoring device used for the management of chronic medical conditions only where the licence of driver of the car carries the relevant medical aptitude endorsement as detailed in Appendix L to the ISC. In such cases, at the discretion of the Technical Delegate, the competitor may be required to …  
+
+**Removed sections (2025 only)** – show only under 2025:  
+2025: Article 8.4.3 – Disconnecting or removing any sensor fitted to the car as part of the original data acquisition system and listed in the F 3 system user manual is forbidden.  
+2025: Article 8.4.4 – It is the responsibility of the competitor to check the permanent functionality of all the sensors fitted on board as part of the car’s original data acquisition system.  
+2025: Article 8.4.5 – Defective sensors connected with the original data acquisition must be replaced prior to the next session or race.  
+2025: Article 8.4.6 – It is the duty of each competitor to record and retain all data from the system of each car from the first Official Test of the current season in the format described in the F 3 system manual…  
+2025: Article 8.4.7 – Additional sensors may be fitted to the car provided the additional sensors are only logged to the original ECU/data‑logger device and the fittings preserve the original instruments and electrical system…  
+2025: Article 8.4.8 – Additional sensors may only be connected to analogue input channels of the original ECU/data‑logger device…  
+2025: Article 8.4.9 – Sensors and acquisition systems may only be fitted for the sole purpose of passive data acquisition.  
+2025: Article 8.4.10 – Should the installation of a sensor require a modification of a genuine part of the car, written details must be provided to and approved by the F 3 Promoter Technical Director and the FIA Technical Delegate prior to use.  
+2025: Article 8.4.11 – Apart from pitot tube and pushrod‑end strain gauges no sensor must protrude from the structure or the bodywork of the car in the external air flow…  
+2025: Article 8.4.12 – During Official Tests, one on‑board camera may be added to the car provided it is fitted in a safe position and securely mounted…  
+2025: Article 8.4.13 – The remote flash disc recorder located in the cockpit may be removed by the drivers at the end of the qualifying session and the races.  
+2025: Article 8.4.14 – A pitot tube can only be fitted in the pitot tube position specified in the car supplier manual.  
+2025: Article 8.4.15 – Contactless speed, slip‑angle sensors, known as “Datron”, infrared cameras fitted on the … (incomplete).  
+
+**Article 8.15 – Prohibited sensor systems** *(2026 addition)*  
+2026: Contactless speed, slip‑angle sensors, known as “Datron”, infrared cameras fitted on the car and internal tyre carcasses temperature measurement systems (unless required by the F3 Promoter and the FIA as per Article 10.4.3) are not permitted.  
+
+*All changes are shown with their article/section reference as requested.*

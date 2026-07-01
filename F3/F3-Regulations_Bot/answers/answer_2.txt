@@ -1,0 +1,12 @@
+**Relevant Technical Regulation – Article 2 — Definitions**
+
+- **2026 § 2.14 Coordinate system and references**  
+  2026: *The X axis is in the rearwards longitudinal direction, and is parallel to the reference and car centre planes.*  
+
+- **2026 § 2.14.1 (a‑c)** – definition of the X‑axis origins and planes (X A=0 mm, X B=0 mm, X C=0 mm, X F=0 mm, X R=0 mm).  
+
+- **2026 § 2.14.2 (d)** – side‑of‑car terminology:  
+  2026: *The positive side of the Y axis is used in the various articles and it is implicit that a symmetrical rule applies for the other side of the car. The terms “inboard” or “outboard”, when used in reference to the Y coordinate, respectively refer to closer to or further away from the car centre plane.*  
+
+**Interpretation**  
+Any component that is mounted on the opposite side of the car to that defined by the positive Y axis (i.e., “outboard” vs. “inboard”) would be in breach of the coordinate‑system conventions set out in Article 2 § 2.14 (2026). The regulation requires parts to be placed according to the defined X‑ and Y‑axis references; installing them on the incorrect side violates these definitions.
