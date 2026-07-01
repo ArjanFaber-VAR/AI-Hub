@@ -1,0 +1,39 @@
+name: AI-Hub
+
+on:
+  push:
+    branches: ["main"]
+  pull_request:
+    branches: ["main"]
+  workflow_dispatch:
+  schedule:
+  
+
+jobs:
+  build:
+    runs-on: windows-latest
+
+    steps:
+      - uses: actions/checkout@v4
+
+      - name: Set up Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: "3.11"
+
+      - name: Install dependencies
+        run: |
+          pip install --upgrade pip
+          pip install -r requirements.txt
+
+      - name: Run batch scripts   
+        run: |
+          start "" cmd /c f2_batch.bat
+          start "" cmd /c calendar_tool.bat
+          start "" cmd /c f3_batch.bat
+          timeout /t 30
+          start "" cmd /c ngrok_main.bat
+          start "" cmd /c start_ngrok.bat
+          start "" cmd /c startup_batch.bat
+
+        
